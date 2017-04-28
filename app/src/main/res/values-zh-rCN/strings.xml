@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">点咖啡</string>
+    <string name="toppings_title">加料</string>
+    <string name="quantity_title">数量</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="text_hint">姓名</string>
+    <string name="default_name">老顾客:）</string>
+    <string name="add_text">加</string>
+    <string name="not_add_text">不加</string>
+    <string name="original_cups">2</string>
+    <string name="toppings_1">加 掼奶油</string>
+    <string name="toppings_2">加 巧克力</string>
+    <string name="order_button">下单</string>
+    <string name="total_title">总价</string>
+    <string name="thank_you">谢谢光临</string>
+    <string name="bottom_check">最少点1杯咖啡</string>
+    <string name="top_check">最多点100杯咖啡</string>
+    <string name="email_subject">咖啡订单收据</string>
+    <string name="client_chooser_pop">请选择邮箱客户端</string>
+</resources>

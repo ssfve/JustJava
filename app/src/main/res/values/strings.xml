@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="toppings_title">TOPPINGS</string>
+
+
+    <string name="quantity_title">QUANTITY</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="text_hint">Name</string>
+    <string name="original_cups">2</string>
+    <string name="default_name">An old customer;)</string>
+    <string name="add_text">Yes</string>
+    <string name="not_add_text">No</string>
+    <string name="toppings_1">Add Whipped Cream</string>
+    <string name="toppings_2">Add Chocolate</string>
+    <string name="order_button">ORDER</string>
+    <string name="total_title">Total</string>
+    <string name="thank_you">Thank you</string>
+    <string name="bottom_check">You cannot have less than 1 coffee</string>
+    <string name="top_check">You cannot have more than 100 coffees</string>
+    <string name="email_subject">Coffee Order Receipt</string>
+    <string name="client_chooser_pop">Choose Email Client</string>
+</resources>
